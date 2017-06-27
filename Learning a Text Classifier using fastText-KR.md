@@ -316,7 +316,7 @@ Progress: 100.0%  words/sec/thread: 1624606  lr: 0.000000  loss: 2.344548  eta: 
 ## Conclusion
 ***
 이 튜토리얼에서는 강력한 text classifier를 학습시키기 위해 fastText를 활용하는 방법에 대하여 알아보았습니다. 또한 model tunning시 활용할 수 있는 중요한 옵션들에 대하여서도 간략히 살펴보았습니다.<br>
-다음 예제에서는 Word vector를 생성하는 방법에 대하여 알아보겠습니다.
+[다음 예제](https://github.com/lims1-yang/fasttext/blob/master/Learning%20Word%20Representations%20using%20fastText-KR.md)에서는 Word vector를 생성하는 방법에 대하여 알아보겠습니다.
 
 ***
 번역 및 수정 : Hyunlim YANG (lims1@dgist.ac.kr), InfoLab., DGIST / 2017.06.20
