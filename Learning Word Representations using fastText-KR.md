@@ -8,7 +8,7 @@
 
 최근의 머신러닝에서 널리 사용되는 아이디어는 단어를 벡터로 표현하는 것입니다. 이러한 벡터는 단어 유추(analogies) 또는 의미(semantic)와 같은 언어에 숨겨진 정보를 캡쳐합니다. 또한 텍스트 분류기의 성능을 향상시키는데도 사용됩니다.
 
-이 튜토리얼에서는 fastText라는 도구를 활용하여 단어 벡터를 생성하는 방법을 다룹니다. fastText를 다운로드하고 설치하는 단계는 [텍스트 분류에 대한 튜토리얼](https://github.com/facebookresearch/fastText/blob/master/tutorials/supervised-learning.md) 첫 단계를 참고하십시오.<br>
+이 튜토리얼에서는 fastText라는 도구를 활용하여 단어 벡터를 생성하는 방법을 다룹니다. fastText를 다운로드하고 설치하는 단계는 [텍스트 분류에 대한 튜토리얼](https://github.com/lims1-yang/fasttext/blob/master/Learning%20a%20Text%20Classifier%20using%20fastText-KR.md) 첫 단계를 참고하십시오.<br>
 
 ## Getting the data
 ***
